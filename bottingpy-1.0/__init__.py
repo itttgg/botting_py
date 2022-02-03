@@ -1,4 +1,4 @@
-__name__ = 'bottingpy-1.0'
+__name__ = 'bottingpy'
 __description__ = 'Creating bots for you!'
 __version__ = '1.0'
 __company__ = 'Xgame'

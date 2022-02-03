@@ -1,0 +1,7 @@
+README.md
+setup.py
+bottingpy.egg-info/PKG-INFO
+bottingpy.egg-info/SOURCES.txt
+bottingpy.egg-info/dependency_links.txt
+bottingpy.egg-info/not-zip-safe
+bottingpy.egg-info/top_level.txt
