@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='pathology',
+setup(name='bottingpy',
       version='1.0',
       url='https://github.com/itttgg/botting_py',
       license='MIT',
