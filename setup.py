@@ -7,6 +7,6 @@ setup(name='bottingpy',
       author='itttgg',
       author_email='aitiiigg1@gmail.com',
       description='Creating bots for yourself',
-      packages=find_packages(exclude=['bottingpy']),
+      packages=find_packages(exclude=['bottingpy-1.0']),
       long_description=open('README.md').read(),
       zip_safe=False)
